@@ -12,5 +12,11 @@ A simple flask app recommends restaurants in different cities based on User Mood
 
 # Run the flask app
 `flask run` -(redirect to)> `http://localhost:8080`
+## Screenshots
 
+![image](https://user-images.githubusercontent.com/76642252/232864638-eea77b4a-80e0-4d59-9931-552518b7bec8.png)
+
+<b> Laziness mood food restaurants</b>
+    
+![image](https://user-images.githubusercontent.com/76642252/232864736-ad164aa3-6964-4616-8ebc-1aa6d28d9dff.png)
 
